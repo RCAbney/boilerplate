@@ -1,0 +1,10 @@
+@import 'reset';
+@import 'variables';
+@import 'spacing';
+@import 'typography';
+
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
